@@ -1,5 +1,5 @@
 {
-  "name": "@bh79/how-to-npm",
+  "name": "@bhutchinson/how-to-npm",
   "version": "1.0.0",
   "description": "sample",
   "main": "index.js",
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhutchinson/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhutchinson/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/bhutchinson/how-to-npm#readme"
 }
